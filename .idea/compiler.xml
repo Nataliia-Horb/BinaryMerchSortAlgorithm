@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Algoritm1" />
         <module name="BinarySearch" />
+        <module name="BinarySearchAlgorithm" />
       </profile>
     </annotationProcessing>
   </component>
