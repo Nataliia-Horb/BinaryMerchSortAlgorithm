@@ -9,6 +9,7 @@
         <module name="Algoritm1" />
         <module name="BinarySearch" />
         <module name="BinarySearchAlgorithm" />
+        <module name="BinaryMerchSortAlgorithm" />
       </profile>
     </annotationProcessing>
   </component>
